@@ -1,0 +1,33 @@
+{
+  "name": "asincronismojs",
+  "version": "1.0.0",
+  "description": "trabajando con asincronismo en javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "challenge": "node src/callback/challenge.js",
+    "promise": "node src/promise/index.js",
+    "promiseChallenge": "node src/promise/challenge.js",
+    "async": "node src/async/index.js",
+    "asyncChallenge": "node src/async/challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisZabala10/AsincronismoJS.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async",
+    "await"
+  ],
+  "author": "Luis Zabala",
+  "license": "MTI",
+  "bugs": {
+    "url": "https://github.com/LuisZabala10/AsincronismoJS/issues"
+  },
+  "homepage": "https://github.com/LuisZabala10/AsincronismoJS#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
