@@ -1,2 +1,2 @@
 # AsincronismoJS
-Aprendiendo aasincronismo con javascript
+Aprendiendo asincronismo con javascript
